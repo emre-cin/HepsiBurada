@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HepsiBurada.Core\HepsiBurada.Core.csproj" />
+    <ProjectReference Include="..\HepsiBurada.Data\HepsiBurada.Data.csproj" />
+    <ProjectReference Include="..\HepsiBurada.Model\HepsiBurada.Model.csproj" />
+  </ItemGroup>
+
+</Project>

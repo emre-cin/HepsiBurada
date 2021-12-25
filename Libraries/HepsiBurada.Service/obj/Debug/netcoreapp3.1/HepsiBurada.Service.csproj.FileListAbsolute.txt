@@ -1,0 +1,17 @@
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Service\bin\Debug\netcoreapp3.1\HepsiBurada.Service.deps.json
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Service\bin\Debug\netcoreapp3.1\HepsiBurada.Service.dll
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Service\bin\Debug\netcoreapp3.1\HepsiBurada.Service.pdb
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Service\bin\Debug\netcoreapp3.1\HepsiBurada.Core.dll
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Service\bin\Debug\netcoreapp3.1\HepsiBurada.Data.dll
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Service\bin\Debug\netcoreapp3.1\HepsiBurada.Model.dll
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Service\bin\Debug\netcoreapp3.1\HepsiBurada.Core.pdb
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Service\bin\Debug\netcoreapp3.1\HepsiBurada.Data.pdb
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Service\bin\Debug\netcoreapp3.1\HepsiBurada.Model.pdb
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Service\obj\Debug\netcoreapp3.1\HepsiBurada.Service.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Service\obj\Debug\netcoreapp3.1\HepsiBurada.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Service\obj\Debug\netcoreapp3.1\HepsiBurada.Service.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Service\obj\Debug\netcoreapp3.1\HepsiBurada.Service.AssemblyInfo.cs
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Service\obj\Debug\netcoreapp3.1\HepsiBurada.Service.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Service\obj\Debug\netcoreapp3.1\HepsiBurada.Service.csproj.CopyComplete
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Service\obj\Debug\netcoreapp3.1\HepsiBurada.Service.dll
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Service\obj\Debug\netcoreapp3.1\HepsiBurada.Service.pdb

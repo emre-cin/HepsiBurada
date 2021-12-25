@@ -1,0 +1,10 @@
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Model\bin\Debug\netcoreapp3.1\HepsiBurada.Model.deps.json
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Model\bin\Debug\netcoreapp3.1\HepsiBurada.Model.dll
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Model\bin\Debug\netcoreapp3.1\HepsiBurada.Model.pdb
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Model\obj\Debug\netcoreapp3.1\HepsiBurada.Model.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Model\obj\Debug\netcoreapp3.1\HepsiBurada.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Model\obj\Debug\netcoreapp3.1\HepsiBurada.Model.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Model\obj\Debug\netcoreapp3.1\HepsiBurada.Model.AssemblyInfo.cs
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Model\obj\Debug\netcoreapp3.1\HepsiBurada.Model.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Model\obj\Debug\netcoreapp3.1\HepsiBurada.Model.dll
+C:\Users\Emre\Desktop\HepsiBurada\Libraries\HepsiBurada.Model\obj\Debug\netcoreapp3.1\HepsiBurada.Model.pdb
